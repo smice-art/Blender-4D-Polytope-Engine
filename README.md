@@ -1,4 +1,11 @@
-# 4D Polytope — Manual
+<p align="center">
+  <img src="images/addon.jpg" alt="seifert Yau width="100%">
+</p>
+
+# 4D Polytope Engine
+A small addon to generate in Blender 4D Polytopes
+
+## Manual
 
 Reference for the N-panel sidebar tab **"4D Polytope"**. Everything below is listed in the order it appears in the panel.
 
