@@ -20,11 +20,11 @@ Note: Please download the file located under the Assets section of the latest Re
 4. Select your `.zip` file.
 
 ## Documentation
-the Add-on is easy to understand. Just open the N-Panel and play with the settings
+The Add-on is easy to understand. All adjustment are placed in a N-Panel Slider "4d Polytope". There is a detailed manual in the section DOCS ![manual](docs/manual.md)
 
 ## Release Notes
 
-### v1.0.0 (July 20, 2026)
+### v2.0.0 (July 20, 2026)
 - **Publishing**: First public upload of the Add-on.
 
 ## Blender
