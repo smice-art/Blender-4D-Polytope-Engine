@@ -3,16 +3,16 @@
 </p>
 
 # 4D Polytope Engine
-A Blender addon to generate in Blender 4D Polytopes. 
+A Blender addon to generate in Blender 4D Polytope. 
 
 # Screen Shot
-Click here [PREVIEW](previews/gallery.md) to see a Selection of 100 previews of most possible combination you can generate with the Tool.
+Click here [PREVIEW](previews/gallery.md) to see a selection of 100 previews of most possible combination you can generate with the Tool.
 
 
 ![PREVIEW](images/screen.jpg)
 
-## The Why
-The idea behind this add-on was to create a simple way to test the mathematic surface.
+## The Idea
+The idea behind this add-on was to make it possible, beside "jenn3D" or other great online tools, to create polytope inside blender.
 
 ## Installation
 Note: Please download the file located under the Assets section of the latest Releases page, rather than the "Download ZIP" button on the main page.
@@ -27,8 +27,11 @@ The Add-on is easy to understand. All adjustment are placed in a N-Panel Slider 
 
 ## Release Notes
 
-### v2.0.0 (July 20, 2026)
+## v2.0.0 (July 20, 2026)
 - **Publishing**: First public upload of the Add-on.
+
+## License
+GPL‑3.0‑or‑later
 
 ## Blender
 ![Blender](https://img.shields.io/badge/Blender-4.3%2B-orange)
