@@ -1,0 +1,23 @@
+schema_version = "1.0.0"
+
+id = "polytopes_4d"
+version = "2.0.1"
+name = "4D Polytopes"
+tagline = "4D polytopes as a live, editable N-panel mesh/curve generator"
+maintainer = "smice.art <ice.smice@gmail.com>"
+type = "add-on"
+
+tags = ["Add Mesh", "Add Curve", "3D View", "Mesh"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+# GPL-3.0-or-later requires crediting the upstream project this is
+
+copyright = [
+  "2024 David Krider (Math Art project, https://github.com/dwkrider/Math-Art)",
+  "2026 Claudio, smice.art, (https://sites.google.com/view/math-art-projects/smice)",
+]
