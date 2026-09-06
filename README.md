@@ -6,9 +6,10 @@
 A Blender addon to generate in Blender 4D Polytopes. 
 
 # Screen Shot
-Click on the Screenshot to see a Selection of 100 previews of most possible combination you can generate with the Tool.
+Click here [PREVIEW](previews/gallery.md) to see a Selection of 100 previews of most possible combination you can generate with the Tool.
 
-![PREVIEW](previews/gallery.md)
+
+![PREVIEW](images/screen.jpg)
 
 ## The Why
 The idea behind this add-on was to create a simple way to test the mathematic surface.
