@@ -24,6 +24,9 @@ Note: Please download the file located under the Assets section of the latest Re
 ## Documentation
 The Add-on is easy to understand. All adjustment are placed in a N-Panel Slider "4d Polytope". There is a detailed manual in the section DOCS: [MANUAL](docs/manual.md)
 
+## Diclaimer ⚠️
+As always, it is the work of an artist, not a developer or mathematician.
+
 ## Release Notes
 
 ## v2.0.0 (July 20, 2026)
