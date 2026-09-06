@@ -20,7 +20,7 @@ Note: Please download the file located under the Assets section of the latest Re
 4. Select your `.zip` file.
 
 ## Documentation
-The Add-on is easy to understand. All adjustment are placed in a N-Panel Slider "4d Polytope". There is a detailed manual in the section DOCS (docs/manual.md)
+The Add-on is easy to understand. All adjustment are placed in a N-Panel Slider "4d Polytope". There is a detailed manual in the section DOCS [Banner Image](docs/manual.md)
 
 ## Release Notes
 
