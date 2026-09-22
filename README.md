@@ -32,12 +32,12 @@ As always, it is the work of an artist, not a developer or mathematician.
 ## v2.0.0 (July 20, 2026)
 - **Publishing**: First public upload of the Add-on.
 
-## v2.0.0 (September 20, 2026)
+## v EXTRA (September 20, 2026)
 - **Publishing**: making a Blender menu experiment
 Based on the original add-on, I started an attempt to design a new menu interface for the n-panel menu overview. The project is stalled because it unfortunately interferes too much with the rest of the Blender interface, and I can't find a solution. If anyone is interested in further development, they are welcome to download the "new" extra add-on und the Branch "extra".
 
 <p align="center">
-  <img src="images/extra/4dpoly.jpg" alt="polytopes width="100%">
+  <img src="extra/4dpoly.jpg" alt="polytopes width="100%">
 </p>
 
 ## License
